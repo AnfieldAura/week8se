@@ -3,7 +3,7 @@ package com.example.my_maven_project;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import java.util.*;
+import java.util.Scanner;
 /**
  * Unit test for simple App.
  */
